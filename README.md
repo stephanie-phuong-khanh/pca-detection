@@ -1,2 +1,3 @@
-# pca-detection
-CS168 (S20) Final Project
+# Prostate cancer detection with mp-MRI
+
+Data is private
