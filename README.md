@@ -1,3 +1,3 @@
 # Prostate cancer detection with mp-MRI
 
-Data is private
+Acquire and place data into `/data` folder.
