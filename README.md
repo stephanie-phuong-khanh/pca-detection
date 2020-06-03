@@ -1,5 +1,9 @@
 # Prostate cancer detection with mp-MRI
 
-Replicated [this paper](https://pubmed.ncbi.nlm.nih.gov/30460529/), following [these](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4890616/pdf/35tmi05-shin-2528162.pdf) data augmentation methods
+Implementation of [Deep transfer learning-based prostate cancer classification using 3 Tesla multi-parametric MRI](https://pubmed.ncbi.nlm.nih.gov/30460529/)
 
 Acquire and place data into `/data` folder.
+
+Run `00_data_preprocess_t2.py` and `00_data_preprocess_adc.py` to crop and normalize images.
+
+Run `01_data_augmentation.py` to augment data to increase model robustness and prevent overfitting.
