@@ -3,3 +3,6 @@
 /.ipynb_checkpoints
 /data_organized
 /data_preprocessed
+/data_augmented
+/deprecated
+/test
